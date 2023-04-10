@@ -8,6 +8,3 @@ Build with react
 <hr>
 
 To see the app running, go to <a href="https://unwritten-income.surge.sh/" target="_blank">Decider</a>
-
-
-<!-- [Decider](https://unwritten-income.surge.sh/) -->
