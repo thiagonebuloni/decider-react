@@ -7,4 +7,10 @@ Build with react
 
 <hr>
 
+Tirado do tutorial [Coding Revolution](https://www.udemy.com/course/create-a-tiny-web-app-with-react/)
+
+Tema [Catppuccin Mocha](https://github.com/catppuccin/catppuccin)
+
+<hr>
+
 To see the app running, go to <a href="https://unwritten-income.surge.sh/" target="_blank">Decider</a>
